@@ -3,3 +3,4 @@ PhD Candidate | <a href="https://balachaudhary.com/index.html"> Chaudhary Lab </
 <a href="https://graduate.dartmouth.edu/eees/"> Ecology, Evolution, Environment and Society Graduate Program </a> <br/> 
 Department of Environmental Studies <br/>
 
+![Headshot](./assets/headshot_SAC.png)
